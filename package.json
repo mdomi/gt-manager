@@ -1,0 +1,24 @@
+{
+  "name": "gt-10-manager",
+  "version": "0.0.0",
+  "description": "web based boss gt-10 manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdomi/gt-manager.git"
+  },
+  "keywords": [
+    "boss",
+    "gt-10",
+    "midi"
+  ],
+  "author": "Mike Dominice <mike@mikedominice.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdomi/gt-manager/issues"
+  },
+  "homepage": "https://github.com/mdomi/gt-manager"
+}

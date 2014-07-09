@@ -1,0 +1,23 @@
+{
+  "name": "gt-10-manager",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mdomi/gt-manager",
+  "authors": [
+    "Mike Dominice <mike@mikedominice.com>"
+  ],
+  "description": "web based boss gt-10 manager",
+  "keywords": [
+    "boss",
+    "gt-10",
+    "midi"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
